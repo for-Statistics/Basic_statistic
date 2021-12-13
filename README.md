@@ -1,5 +1,5 @@
 <div align="center">
-  <p><strong>데이터과학을 위한 통계 스터디<strong></p>
+  <p><strong>데이터과학을 위한 통계 스터디</strong></p>
 
 </div>
 
